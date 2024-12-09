@@ -2,7 +2,7 @@
 
 ***
 
-<p align="center">This is a prototype under development for a for a cutting-edge AI Avatar and Story Generator studio for enhancing creativity and gaming experiences.</p>
+<p align="center">This project is a prototype under development for a for a cutting-edge AI Avatar and Story Generator studio for enhancing creativity and gaming experiences.</p>
 
 <p align="center">
     <a href="https://github.com/LTabaro/GenAI-Avatar-Generator"><b>GitHub</b></a> •
