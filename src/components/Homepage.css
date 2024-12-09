@@ -1,0 +1,111 @@
+.fadeInDown {
+  animation: fadeInDown 1.2s ease-out;
+}
+
+.fadeInUp {
+  animation: fadeInUp 1.2s ease-out;
+}
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.cta-button {
+  background-color: #007bff;
+  border: none;
+  padding: 15px 30px;
+  font-size: 1.2rem;
+  color: #fff;
+  border-radius: 50px;
+  cursor: pointer;
+  text-shadow: 1px 1px 5px #000;
+  transition: 0.3s;
+}
+
+.cta-button:hover {
+  background-color: #0056b3;
+  box-shadow: 0 0 15px #007bff;
+}
+
+.cta-button-secondary {
+  background-color: #fff;
+  color: #007bff;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 50px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.cta-button-secondary:hover {
+  color: #fff;
+  background-color: #007bff;
+}
+
+.features-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.feature-card {
+  background: linear-gradient(145deg, #222538, #1a1b2d);
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.4);
+  transition: transform 0.3s, box-shadow 0.3s;
+  text-align: center;
+  width: 240px;
+}
+
+.feature-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
+}
+
+.feature-icon {
+  width: 120px;
+  height: 120px;
+  margin-bottom: 20px;
+}
+
+.cta-section {
+  background-color: #007bff;
+  padding: 40px 20px;
+  text-align: center;
+  color: #fff;
+  transition: background-color 0.3s;
+}
+
+.cta-section:hover {
+  background-color: #0056b3;
+}
+
+.footer {
+  background-color: #1e1e2f;
+  padding: 20px;
+  color: #ccc;
+  text-align: center;
+  margin-top: 20px;
+}
+

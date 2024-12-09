@@ -1,0 +1,99 @@
+.prompts-container {
+  background-color: #f0f8ff;
+  color: #333;
+  min-height: 100vh;
+  padding: 30px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.page-title {
+  text-align: center;
+  font-size: 2.8rem;
+  margin-bottom: 10px;
+  color: #ff4500;
+}
+
+.page-description {
+  text-align: center;
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  color: #555;
+}
+
+
+.prompt-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.prompt-card {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  width: 260px;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.prompt-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+}
+
+.prompt-image-container {
+  margin-bottom: 10px;
+}
+
+.prompt-image {
+  width: 100%;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.prompt-title {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #007bff;
+}
+
+.prompt-text {
+  font-size: 0.9rem;
+  color: #555;
+}
+
+
+.add-prompt-section {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.input-title,
+.input-text {
+  width: 80%;
+  max-width: 600px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.add-button {
+  background: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.add-button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+
