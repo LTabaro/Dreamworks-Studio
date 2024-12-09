@@ -45,7 +45,7 @@ Step into the future of gaming and content creation with the **Dreamworks Studio
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LTabaro/Dreamworks-Studio/main/src/assets/ai-avatar-5.png" alt="AI Avatar" style="width:200px; height:auto; margin:10px;" />
+  <img src="https://raw.githubusercontent.com/LTabaro/Dreamworks-Studio/main/src/assets/ai-avatar.png" alt="AI Avatar" style="width:200px; height:auto; margin:10px;" />
   <img src="https://raw.githubusercontent.com/LTabaro/Dreamworks-Studio/main/src/assets/Elf.png" alt="Elf Avatar" style="width:200px; height:auto; margin:10px;" />
   <img src="https://raw.githubusercontent.com/LTabaro/Dreamworks-Studio/main/src/assets/Hobbit.png" alt="Hobbit Avatar" style="width:200px; height:auto; margin:10px;" />
   <img src="https://raw.githubusercontent.com/LTabaro/Dreamworks-Studio/main/src/assets/Jedi.png" alt="Jedi" style="width:200px; height:auto; margin:10px;" />
