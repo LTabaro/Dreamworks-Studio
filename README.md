@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/MARVEL_Banner_.jpg" alt="Marvel Banner" style="width:1000px; height:auto; margin:10px;" />
+<img src="https://raw.githubusercontent.com/LTabaro/Dreamworks-Studio/main/src/assets/MARVEL_Banner_.jpg" alt="Marvel Banner" style="width:1000px; height:auto; margin:10px;" />
 
 ***
 
@@ -52,7 +52,7 @@ Step into the future of gaming and content creation with the **Dreamworks Studio
 </div>
 
 ---
-<img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/studio homepage.png" alt="Homepage" style="width:1000px; height:auto; margin:10px;" />
+<img src="https://raw.githubusercontent.com/LTabaro/Dreamworks-Studio/main/src/assets/studio homepage.png" alt="Homepage" style="width:1000px; height:auto; margin:10px;" />
 
 ---
 ## Installation
